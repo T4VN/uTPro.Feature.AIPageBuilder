@@ -1,0 +1,39 @@
+{
+  "Category": "Backoffice Extensions",
+  "Title": "uTPro AI Page Builder",
+  "Description": "AI-assisted page building inside the Umbraco backoffice (Umbraco 16, 17 and 18; net9.0/net10.0). Adds an \"AI Builder\" workspace action to Documents that assembles pages from your existing Block Grid / Block List components from a plain prompt, a topic, or an attached design screenshot (optional vision input), rewrites a single block on demand, and fills every configured language variant from the source culture with preview and draft-only apply. Build needs a doc type with a block editor property; Dictionary item and Media caption/alt-text translation work on any content type. Bring your own OpenAI-compatible LLM endpoint (OpenAI, Azure OpenAI, Gemini, Groq, OpenRouter or a local Ollama). Ships with English and Vietnamese backoffice localizations.",
+  "AuthorDetails": {
+    "Name": "T4VN",
+    "Url": "https://t4vn.com",
+    "ImageUrl": "https://github.com/t4vn.png",
+    "SyncContributorsFromRepository": true
+  },
+  "LicenseTypes": [
+    "Free"
+  ],
+  "Tags": [
+    "ai",
+    "llm",
+    "page builder",
+    "block grid",
+    "block list",
+    "content",
+    "translation",
+    "localization",
+    "multilingual",
+    "i18n",
+    "openai",
+    "gemini",
+    "groq",
+    "ollama",
+    "vision",
+    "backoffice",
+    "dictionary",
+    "media",
+    "developer tools"
+  ],
+  "LookingForContributors": true,
+  "PackageType": "Package",
+  "DocumentationUrl": "https://docs.utpro.dev/uTPro.Feature.AIPageBuilder/",
+  "IssueTrackerUrl": "https://github.com/T4VN/uTPro.Feature.AIPageBuilder/issues"
+}
